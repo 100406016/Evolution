@@ -1,0 +1,38 @@
+[
+	{
+		"COLOR_R": 39,
+		"COLOR_G": 174,
+		"COLOR_B": 96,
+		"TYPE_NUTRIENT": "V"
+	},
+	{
+		"COLOR_R": 20,
+		"COLOR_G": 90,
+		"COLOR_B": 50,
+		"TYPE_NUTRIENT": "V"
+	},
+	{
+		"COLOR_R": 169,
+		"COLOR_G": 223,
+		"COLOR_B": 191,
+		"TYPE_NUTRIENT": "V"
+	},
+	{
+		"COLOR_R": 231,
+		"COLOR_G": 76,
+		"COLOR_B": 60,
+		"TYPE_NUTRIENT": "A"
+	},
+	{
+		"COLOR_R": 220,
+		"COLOR_G": 118,
+		"COLOR_B": 51,
+		"TYPE_NUTRIENT": "A"
+	},
+	{
+		"COLOR_R": 241,
+		"COLOR_G": 196,
+		"COLOR_B": 15,
+		"TYPE_NUTRIENT": "A"
+	}
+]

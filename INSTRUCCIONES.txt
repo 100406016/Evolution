@@ -1,0 +1,40 @@
+----- ELEMENTOS DE LA CARPETA -----
+
+Para iniciar la simulación, abra la carpeta "evolution", busque "evolution.exe" y ejecútelo.
+Si todo va bien,aparecerá la ventana donde se desarrolla la simulación.
+Para cerrar el programa símplemente cierre la ventana.
+
+
+La simulación se puede cambiar desde la carpeta "configuration".
+
+    "window_size.json" cambia el tamaño de la ventana. Recomendable ajustar a las dimensiones de pantalla deseadas.
+    "nutrients.json" permite quitar o añadir nutrientes.
+    "sectors.json" gestiona las casillas.
+    "animals.json" sirve para añadir y modificar los animales iniciales.
+
+Cualquier error al modificar estos archivos podría hacer que el programa falle.
+No hay ningún peligro, pero el programa no se ejecutará si detecta alguna inconsistencia.
+Como remedio a este problema, se recomienda tener una copia de las configuraciones originales.
+
+
+La carpeta "data" recoge datos de la última simulación. Sirve para estudios analíticos.
+
+    "animalRegister.csv" registra los datos de los animales.
+    "nutrientRegister.csv" registra los datos de los nutrientes de la simulación.
+    "sectorsRegister.json" registra los datos de las casillas.
+
+Cada vez que se ejecuta una simulación, los datos anteriores se pierden.
+Si se quiere conservar los datos recogidos, cópielos en otra carpeta antes de iniciar otra simulación.
+
+
+El resto de archivos y carpetas sirven para el correcto funcionamiento del programa.
+
+
+
+----- CONTROLES -----
+
+- Mover cámara: BOTÓN DERECHO del RATÓN y arrastrar.
+- Zoom: ARRIBA aumenta el zoom, ABAJO disminuye el zoom.
+- Velocidad de simulación: DERECHA aumenta la velocidad, IZQUIERDA disminuye la velocidad.
+- Pausa: la tecla P pausa la simulación. Al pulsar de nuevo continúa.
+- Campo de visión: la tecal V permite mostrar el campo de visión de los animales. Al pulsar de nuevo lo oculta.

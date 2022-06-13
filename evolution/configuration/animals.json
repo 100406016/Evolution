@@ -1,0 +1,56 @@
+[
+	{		
+		"MUTATE_RANGE": 1,
+		"ABNORMAL_MUTATE_CHANCE": 0.03,
+		"ALLOW_CARNIVORES": true,
+		"NUTRIENTS_NUMBER": 3
+	},
+	{
+		"INITIAL_NUMBER": 20,
+		"START_CYCLE": 0,
+		
+		"MAX_SIZE": 35.0,
+		"MAX_HEALTH": 100.0,
+		"MAX_ENERGY": 500.0,
+		"MITOSIS_HEAT": 200.0,
+		"LIVE_TIME": 800.0,
+		"STRENGTH": 100.0,
+		"VIEW": 160,
+		"SPEED": 2.0,
+		"VORACITY": 3,
+		
+		"MIN_HEALTH": 0.5,
+		"MIN_ENERGY": 0.5,
+		"CROSS_HEAT": 0.5,
+		"FEAR": 0.1,
+		"GLUTTONY": 0.5,
+		"CAREFULNESS": 0.5,
+		"SLOTH": 0.5,
+		
+		"FOOD": "H"
+	},
+	{
+		"INITIAL_NUMBER": 5,
+		"START_CYCLE": 700,
+		
+		"MAX_SIZE": 20.0,
+		"MAX_HEALTH": 200.0,
+		"MAX_ENERGY": 800.0,
+		"MITOSIS_HEAT": 250.0,
+		"LIVE_TIME": 800.0,
+		"STRENGTH": 10.0,
+		"VIEW": 150,
+		"SPEED": 3,
+		"VORACITY": 3,
+		
+		"MIN_HEALTH": 0.5,
+		"MIN_ENERGY": 0.5,
+		"CROSS_HEAT": 0.5,
+		"FEAR": 0.9,
+		"GLUTTONY": 0.5,
+		"CAREFULNESS": 0.5,
+		"SLOTH": 0.5,
+		
+		"FOOD": "C"
+	}
+]
